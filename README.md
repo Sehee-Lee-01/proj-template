@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> 강조 태그
+
+> [!TIP]
+> 강조 태그
+
 # Github를 사용해 간단하게 프로젝트 관리 툴 사용해보기
 > 프로젝트에서 사용할 수 있는 편리한 도구
 > 프로젝트 소개 README.md, issue, PR, Project board
